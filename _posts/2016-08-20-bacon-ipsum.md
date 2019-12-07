@@ -7,10 +7,23 @@ thumbnail: earth.jpg
 
 Bacon ipsum dolor amet fatback biltong cow kielbasa. Ground *round* jowl picanha **short ribs**, short loin shoulder flank ham hock. Fatback pork shoulder, frankfurter kevin spare ribs alcatra shank picanha ball tip.
 
-> ## Capicola leberkas fatback, kielbasa strip steak.
+# Heading 1 is supposed to be bigger than 2 but for some reason its not showing that way
+
+## Heading 2 is smaller than 1
+
+### Heading 3 is smaller than 2
+
+#### Heading 4 is smaller than 3
+
+##### Heading 5 is smaller than 4
+
+###### Heading 6 is smaller than 5
+
+> block quote in grey italics
 
 Chicken biltong ribeye, pig cupim filet mignon sausage.
 
+[//]: # (insert img)
 <figure>
 	<img src="{{ site.baseurl }}/assets/earth.jpg" alt="image">
 	<figcaption>

@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Welcome to Katie's Greece Trip Commemoration!" 
+date: 2019-08-26 00:00:00 +0200
+---
+
+Our American society operates under the underlying assumption that everyone is inherently bad but should try to be good. It is a commonly held belief among Americans, and consistent with the beliefs of modernity at large, that people are inherently selfish, always out for themselves. In our society, the individual-community relationship is defined with an individual’s interests in opposition with those of the community; in order to help the community, the individual has to make sacrifices. In contrast, pre-modern Greece did not place such a negative presumption on one’s initial characteristics; the sentiment was instead that people started out relatively neutral and could become better or worse based on their actions. In this view, since people were not born bad, they were not always acting out of self-interest. We are built upon original sin, which has created a divide between our individuals and our community, while ancient Athens was based on a strong sense of communal trust that allowed them to flourish and has in some ways continued on into Greek culture today. But do not despair, there is hope for us non-Greeks, as you will see.

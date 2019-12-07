@@ -1,3 +1,0 @@
-I"F<p><a href="# (make comments that don't show up in the html like this.)">//</a>: # (`` makes the affected text appear in mono font in a grey box and the effect is like using quotes ‘’ to show literal.)
-You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-:ET
