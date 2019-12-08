@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/hnrs103-greece/</link>
     <atom:link href="http://localhost:4000/hnrs103-greece/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Dec 2019 15:11:33 -0800</pubDate>
-    <lastBuildDate>Sun, 08 Dec 2019 15:11:33 -0800</lastBuildDate>
+    <pubDate>Sun, 08 Dec 2019 15:45:08 -0800</pubDate>
+    <lastBuildDate>Sun, 08 Dec 2019 15:45:08 -0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -157,7 +157,7 @@
         <description>&lt;h1 id=&quot;epidaurus&quot;&gt;Epidaurus&lt;/h1&gt;
 
 &lt;figure&gt;
-    &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://youtu.be/gSp_Fctg794&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+    &lt;iframe width=&quot;475&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/gSp_Fctg794&quot; frameborder=&quot;0&quot; style=&quot;display:block; margin:auto;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 	&lt;figcaption&gt;
     Video of Aidyn singing in Epidaurus courtesy of Sten because my phone was low on battery at the time
 	&lt;/figcaption&gt;
