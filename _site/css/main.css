@@ -1,4 +1,4 @@
-@font-face { font-family: libretto-icons; src: url(/jekyll-theme-libretto/assets/fonts/libretto-icons/libretto-icons.eot); /* IE9 Compat Modes */ src: url(/jekyll-theme-libretto/assets/fonts/libretto-icons/libretto-icons.woff) format("woff"), url(/jekyll-theme-libretto/assets/fonts/libretto-icons/libretto-icons.ttf) format("truetype"), url(/jekyll-theme-libretto/assets/fonts/libretto-icons/libretto-icons.svg#font_name) format("svg"); /* Legacy iOS */ }
+@font-face { font-family: libretto-icons; src: url(/hnrs103-greece/assets/fonts/libretto-icons/libretto-icons.eot); /* IE9 Compat Modes */ src: url(/hnrs103-greece/assets/fonts/libretto-icons/libretto-icons.woff) format("woff"), url(/hnrs103-greece/assets/fonts/libretto-icons/libretto-icons.ttf) format("truetype"), url(/hnrs103-greece/assets/fonts/libretto-icons/libretto-icons.svg#font_name) format("svg"); /* Legacy iOS */ }
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }

@@ -4,10 +4,18 @@ layout: default
 
 <div class="table-of-contents">
 
-	<h1 class="page-heading">Table of Contents</h1>
+	<figure>
+		<img src="{{ site.baseurl }}/assets/parthenon-horizontal.jpg" alt="image">
+		<figcaption>
+			Here we behold the Parthenon in all of its glory.
+		</figcaption>
+	</figure>
+
+	<h1 class="page-heading">Posts Table of Contents</h1>
+	<!-- <h2 class="page-heading">Please click on the name of a post to read it.</h2> -->
 
 	<ul class="post-list">
-		{% for post in site.posts %}
+		{% for post in site.posts reversed %}
 		<li>
 			<span class="post-meta" style="font-style: italic;">• {{ post.date | date: "%B %-d, %Y" }} •</span>
 
