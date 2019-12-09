@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Commemorating HNRS 103 in Greece
+title: HNRS 103 in Greece
 email: taylo230@wwu.edu
 description: > # this means to ignore newlines until "baseurl:"
   This final project is the offspring of summaries of my thoughts both during and after the trip, my interest in photography, and my wish to learn a new piece of software for creating websites. I hope you enjoy it!

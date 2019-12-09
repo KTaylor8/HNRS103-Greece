@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Commemorating HNRS 103 in Greece</title>
+    <title>HNRS 103 in Greece</title>
     <description>This final project is the offspring of summaries of my thoughts both during and after the trip, my interest in photography, and my wish to learn a new piece of software for creating websites. I hope you enjoy it!
 </description>
     <link>http://localhost:4000/hnrs103-greece/</link>
     <atom:link href="http://localhost:4000/hnrs103-greece/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Dec 2019 15:52:31 -0800</pubDate>
-    <lastBuildDate>Sun, 08 Dec 2019 15:52:31 -0800</lastBuildDate>
+    <pubDate>Sun, 08 Dec 2019 15:58:48 -0800</pubDate>
+    <lastBuildDate>Sun, 08 Dec 2019 15:58:48 -0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
